@@ -1,0 +1,6 @@
+{
+  "name": "AegisAI // LLM Red-Teaming & Defense Sandbox",
+  "description": "Enterprise-grade Visual LLM Red-Teaming, Prompt Injection Defense, and Automated System Hardening Sandbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
